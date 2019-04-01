@@ -1,0 +1,22 @@
+{
+  "name": "wellnest",
+  "version": "1.0.0",
+  "description": "WELLNEST ---------------------- ---------------------- Connecting people to therapists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsearle7/wellnest.git"
+  },
+  "author": "thomas searle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsearle7/wellnest/issues"
+  },
+  "homepage": "https://github.com/tsearle7/wellnest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
